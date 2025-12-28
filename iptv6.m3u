@@ -45,32 +45,6 @@ http://39.135.43.75:80/wh7f454c46tw3867170749_113583771/cdnrrs.gx.chinamobile.co
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg" group-title="广西频道",广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="http://tvyan.com/uploads/dianshi/gxyspd.jpg" group-title="广西频道",广西影视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="http://tvyan.com/uploads/dianshi/gxxwpd.jpg" group-title="广西频道",广西新闻
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8
-#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="http://tvyan.com/uploads/dianshi/gxdspd.jpg" group-title="广西频道",广西都市
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8
-#EXTINF:-1 tvg-id="广西综艺" tvg-name="广西综艺" tvg-logo="http://tvyan.com/uploads/dianshi/gxzypd.jpg" group-title="广西频道",广西旅游
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8
-#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="http://tvyan.com/uploads/dianshi/hezhou.jpg" group-title="广西频道",贺州综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8
-#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="http://tvyan.com/uploads/dianshi/guilin.jpg" group-title="广西频道",桂林新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8
-#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="http://tvyan.com/uploads/dianshi/guilin.jpg" group-title="广西频道",桂林科教旅游
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8
-#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="http://tvyan.com/uploads/dianshi/guilin.jpg" group-title="广西频道",桂林公共频道
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8
-#EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="" group-title="广西频道",南宁文旅生活
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8
-#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="http://tvyan.com/uploads/dianshi/nlysyl.jpg" group-title="广西频道",南宁影视娱乐
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8
-#EXTINF:-1,tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="http://tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="广西频道",南宁新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8
-#EXTINF:-1,tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="http://tvyan.com/uploads/dianshi/nnggpd.jpg" group-title="广西频道",南宁公共
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8
-#EXTINF:-1,tvg-id="柳州科教" tvg-name="柳州科教" tvg-logo="http://tvyan.com/uploads/dianshi/lzskjpd.jpg" group-title="广西频道",柳州科教
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="" group-title="卫视",凤凰卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="" group-title="卫视",凤凰卫视香港台
@@ -207,11 +181,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="炫舞未来 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",CHC动作电影
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226408/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CHC家庭影院 " tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",CHC家庭影院 
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index.m3u8?servicetype=1
-#EXTM3U
 #EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚「移动」
