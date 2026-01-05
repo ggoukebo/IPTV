@@ -45,10 +45,6 @@ http://39.135.43.75:80/wh7f454c46tw3867170749_113583771/cdnrrs.gx.chinamobile.co
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg" group-title="广西频道",广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="湖南频道" tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg",湖南国际频道
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz02YjE4NjRkNTQ4ZmViM2U0MmQwNjBjY2UxZjczMGI2OSZ1aWQ9JnV1aWQ9OGM1ZDZkZjUxMDZjYWM4ZjZiNzA1NzY0YzMyYjVkZTUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Njg5NDQzMA,,/HNGJMPP360.m3u8
-#EXTINF:-1 group-title="湖南频道" tvg-id="长沙新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0215/small7ff3d34c5627b5c263817abeff70e23d.gif",长沙新闻频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0wY2E5ZjVjMzRhNGEyMzQ1MDBmODRmYmQwY2RiNzI5MCZ1aWQ9JnV1aWQ9N2M2NmQ2N2NjZTc1MWE5MDQzNTk3NDdhMzliZjdkMWUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NjkxMjEzNg,,/CSXWMPP360.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="" group-title="卫视",凤凰卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="" group-title="卫视",凤凰卫视香港台
@@ -185,160 +181,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="炫舞未来 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",炫舞未来
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟙𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟚𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟛𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟛𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟛𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="•咪咕「移动」" tvg-logo="https://epg-1.iill.top/logo/咪咕.png",咪咕直播 𝟛𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕体育34" tvg-logo="" group-title="•咪咕「移动」",咪咕体育34
-http://[2409:8087:1e02:20::1a]/000000001000/3000000010000009788/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育41" tvg-logo="" group-title="•咪咕「移动」",咪咕体育41
-http://[2409:8087:1e02:20::1a]/000000001000/3000000010000012616/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育42" tvg-logo="" group-title="•咪咕「移动」",咪咕体育42
-http://[2409:8087:1e02:20::1a]/000000001000/3000000010000015470/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育47" tvg-logo="" group-title="•咪咕「移动」",咪咕体育47
-http://[2409:8087:1e02:20::1a]/000000001000/3000000010000019839/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育54" tvg-logo="" group-title="•咪咕「移动」",咪咕体育54
-http://[2409:8087:1e02:20::1a]/000000001000/3000000010000031669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1983年春晚
-http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1984年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1985年春晚
-http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1986年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1987年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1988年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1989年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1992年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1993年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1994年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1995年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1996年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1997年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1998年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",1999年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2000年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2001年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2002年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2003年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2004年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2005年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2006年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2007年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2008年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2009年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2010年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2011年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2012年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2013年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2014年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2015年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2016年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2017年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2018年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2019年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2020年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2021年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2022年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2023年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="历年春晚",2024年春晚
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="国际频道",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="国际频道",SBS KBC
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="国际频道",MBC Chuncheon
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="国际频道",MBC Daejeon
@@ -347,8 +191,6 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="国际频道",Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="国际频道",KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="国际频道",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",Arirang
