@@ -195,3 +195,5 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njc3NzY3ODZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=k~HrdtRG3zkPRE1~i449tLCU~wxPrxlBaa~ANFtb7Z5TSl4HBNDrwS6LV8nHWsa2J5NPST3tl8pIbz7FR6r2RwBRiE1wXvNU6N1Cu0S32uwGR0wngvm8hhejJUnPdrEe0D8zaBB4ngMafzdZwyJalGZs85PgGcWpnz4adZ~35eiCdTJvufBDG-PAxKvYxS~F0XEs-lICiVt5~COy~JfTsY8LGDmeNq9xWng6F8SmChTHlNrES04l8Eapaj5bYESq34q6zgteLGpx5IyBAOk~n4cRGMNvEloLxsQgQgpFhOjZb~A~KdVn-tNfg7BVSscPUxmobQf-i0nlrHtNXN74bQ__
