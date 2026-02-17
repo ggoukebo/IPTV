@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top/"
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="4K频道",CCTV8K
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226278/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="" group-title="4K频道",CCTV4K 4M
+https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 #EXTINF:-1 tvg-name="纯享4K 4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4k/CX4KYXTB20220126.png" group-title="4K频道",纯享4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
