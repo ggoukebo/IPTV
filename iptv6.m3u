@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top/"
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="" group-title="4K频道",CCTV4K 4M
 https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="" group-title="4K频道",CCTV4K 20M
+#EXTINF:-1 tvg-name="CCTV4K 20M" tvg-logo="" group-title="4K频道",CCTV4K 20M
 http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 #EXTINF:-1 tvg-name="纯享4K 4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4k/CX4KYXTB20220126.png" group-title="4K频道",纯享4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
