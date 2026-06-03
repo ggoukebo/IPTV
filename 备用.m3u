@@ -1,13 +1,13 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央視頻道(备)",CCTV1
-http://69.30.245.50/live/cctv1.m3u8
+http://60.10.139.113:8801/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央視頻道(备)",CCTV2
-http://222.223.41.27:8888/hls/2/index.m3u8
+http://60.10.139.113:8801/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央視頻道(备)",CCTV3
-http://101.66.194.199:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+http://60.10.139.113:8801/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央視頻道(备)",CCTV4
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1780470000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e9a74e3b0c3c4fcb36c64f0b22ee78ad&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+http://60.10.139.113:8801/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央視頻道(备)",CCTV5
-http://222.223.41.27:8888/hls/5/index.m3u8
+http://60.10.139.113:8801/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央視頻道(备)",CCTV5+
 http://60.10.139.113:8801/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央視頻道(备)",CCTV6
